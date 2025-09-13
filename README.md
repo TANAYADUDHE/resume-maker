@@ -1,1 +1,1 @@
-Resume maker project.
+This is the Resume maker project.
